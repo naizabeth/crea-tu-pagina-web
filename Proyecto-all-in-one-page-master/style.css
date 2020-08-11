@@ -1,0 +1,55 @@
+@font-face {
+  font-family:naiza;
+  src: url(fonts/alex-brush/AlexBrush-Regular.ttf);
+}
+h1,h2,h3{
+    font-family:naiza;
+    font-size:2em;
+   
+}
+.navegador{
+    background-color: rgba(255,255,255,0.7);
+}
+.navegador li{
+   margin-right: 1em;
+    margin-bottom: 1em;
+}
+.nav-link{background-color:#9D0CAF;
+          border-radius:5%;
+          padding:.5em;
+          
+          font-weight: bold;
+          color:white;
+          }
+
+
+.card-tittle{color:#9D0CAF; }
+
+
+.nav-link:hover{ background-color: #555;
+                color:white;
+                font-weight: bold; }
+#imagen:hover{
+  -webkit-transform:scale(1.3);transform:scale(1.3);}
+#imagen {overflow:hidden;}
+
+               
+.card-title{font-family:}
+.card{margin:3em;}
+.card-img{ border-radius:50%;}
+.card-text{color:crimson;}
+
+
+.carousel-caption{
+        background-color: rgba(0,0,0,.5);
+        padding:1em;  }
+
+
+
+.fa-envelope{ color:red;}
+.fa-facebook-square{ color:blue;}
+.fa-instagram{ color:crimson;}
+#contacto .fa {font-size:2em;
+}
+
+
